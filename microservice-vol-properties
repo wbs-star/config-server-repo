@@ -1,4 +1,0 @@
-spring.h2.console.enabled=true
-server.port=8081
-mes-configs.limitDeVols=3
-spring.jpa.show-sql=true
