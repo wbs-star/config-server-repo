@@ -1,4 +1,0 @@
-eureka.client.fetchRegistry:false
-eureka.client.registerWithEureka:false
-server.port:9094
-eureka.client.serviceUrl.default:http://localhost:9094/eureka/
